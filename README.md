@@ -1,6 +1,6 @@
 # Python for chemists
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabianGD/TeachingAST/master)
+Click here to launch the tutorial remotely on binder.org 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FabianGD/TeachingAST/master)
 
 I designed this four part tutorial for the Master course "Chemistry of Materials" at the University of Jena in 2020.
 It's my first programming tutorial, so it might be a bit rough around the edges.
