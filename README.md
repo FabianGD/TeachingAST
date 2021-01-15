@@ -19,4 +19,4 @@ To compliment the course, there are a two homework notebooks to get your hands d
 
 ## Feedback
 
-You have any sort of critism or constructive feedback to make this course better? Then shoot me an email at `fabian.drogee at uni-jena.de`!
+You have any sort of critism or constructive feedback to make this course better? Then shoot me an email at `fabian.droege at uni-jena.de`!
